@@ -11,8 +11,3 @@ Noter ned feilene du finner og rett opp i dem.
 
 i fila logs2.log ligger det logger på et annet format. Utvid programmet slik at det kan parse loggene fra begge filene og skrive dem ut som json på samme loggformat.
 
-## Del 2:
-
-Lag et databaseskjema for de normaliserte loggene for å laste dem opp i en posgres database.
-
-Vi er spesielt interresert i alle logger som nevner noe om admin. Ta hensyn til dette når du setter opp databasestrukturen.
